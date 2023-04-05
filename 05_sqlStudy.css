@@ -1,0 +1,20 @@
+table {
+    width: 600px;
+    text-align: center;
+    border: 1px solid #444444;
+    border-collapse: collapse;
+}
+
+th, td {
+    height: 40px;
+    padding: 8px;
+    border: 1px solid #444444;
+}
+
+thead {
+    font-weight: bold;
+}
+
+#head {
+    font-weight: bold;
+}
